@@ -1,0 +1,7 @@
+#! /usr/bin/bash
+echo $PWD
+#! /usr/bin/bash
+echo $PWD
+
+
+
